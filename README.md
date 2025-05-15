@@ -20,7 +20,7 @@ For years, I searched for the perfect developer color scheme — something that 
 
 ---
 
-![Coders Theme Screenshot](https://github.com/tirth-2510/Cooders-Theme/master/screenshots/preview1.png)
+![Coders Theme Screenshot](https://github.com/tirth-2510/Coders-Theme/blob/master/screenshots/preview1.png)
 
 ---
 
