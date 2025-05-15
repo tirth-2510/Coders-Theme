@@ -1,0 +1,22 @@
+{
+    "name": "coders-theme",
+    "displayName": "Coders Theme",
+    "description": "Perfect theme for coders.",
+    "version": "0.0.2",
+    "publisher": "tirth25",
+    "engines": {
+        "vscode": "^1.100.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coders Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Coders Theme-color-theme.json"
+            }
+        ]
+    }
+}
