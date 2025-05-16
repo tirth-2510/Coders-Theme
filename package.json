@@ -2,7 +2,7 @@
     "name": "coders-theme",
     "displayName": "Coders Theme",
     "description": "Perfect theme for coders.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "tirth25",
     "engines": {
         "vscode": "^1.100.0"
@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "https://github.com/tirth-2510/Coders-Theme/blob/master/images/logo.png?raw=true",
+    "icon": "images/logo.png",
     "contributes": {
         "themes": [
             {
