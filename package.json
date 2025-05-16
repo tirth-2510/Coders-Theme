@@ -10,7 +10,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "images/logo.png",
+    "icon": "https://github.com/tirth-2510/Coders-Theme/blob/master/images/logo.png?raw=true",
     "contributes": {
         "themes": [
             {
